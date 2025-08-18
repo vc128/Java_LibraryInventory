@@ -1,0 +1,19 @@
+Philosophy: The Quest for Truth,Louis P Pojman,Y
+The Case for a Creator,Lee Strobel,Y
+Champion,Marie Lu,Y
+Prodigy,Marie Lu,Y
+Legend,Marie Lu,N
+The Marvels of Animal Behavior,National Geographic Society,Y
+The Art of War,Sun Tzu,Y
+Rules,Cynthia Lord,Y
+Minority Report,Philip K. Dick,Y
+Little Failure,Gary Shteyngart,Y
+Lord of the Flies,William Golding,Y
+Anne of Green Gables,L. M. Montgomery,Y
+Island of the Blue Dolphins,Scott O'Dell,Y
+Charlie and the Great Glass Elevator,Roald Dahl,N
+Percy Jackson's Greek Gods,Rick Riordan,Y
+Making Thirteen Colonies,Joy Hakim,N
+The Son of Neptune,Rick Riordan,Y
+The Kite Runner,Khaled Hosseini,Y
+Maximum Ride,James Patterson,Y
