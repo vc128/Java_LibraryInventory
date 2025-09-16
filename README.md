@@ -80,11 +80,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
+1. Get eclipse at https://www.eclipse.org/downloads/packages/ 
+2. Get Java with SDK 17 at __________
 3. Install NPM packages
    ```sh
    npm install
